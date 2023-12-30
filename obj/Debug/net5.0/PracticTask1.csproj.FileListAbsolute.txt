@@ -1,0 +1,16 @@
+G:\12\Проекты\PracticTask1\bin\Debug\net5.0\PracticTask1.exe
+G:\12\Проекты\PracticTask1\bin\Debug\net5.0\PracticTask1.deps.json
+G:\12\Проекты\PracticTask1\bin\Debug\net5.0\PracticTask1.runtimeconfig.json
+G:\12\Проекты\PracticTask1\bin\Debug\net5.0\PracticTask1.runtimeconfig.dev.json
+G:\12\Проекты\PracticTask1\bin\Debug\net5.0\PracticTask1.dll
+G:\12\Проекты\PracticTask1\bin\Debug\net5.0\ref\PracticTask1.dll
+G:\12\Проекты\PracticTask1\bin\Debug\net5.0\PracticTask1.pdb
+G:\12\Проекты\PracticTask1\obj\Debug\net5.0\PracticTask1.csproj.AssemblyReference.cache
+G:\12\Проекты\PracticTask1\obj\Debug\net5.0\PracticTask1.GeneratedMSBuildEditorConfig.editorconfig
+G:\12\Проекты\PracticTask1\obj\Debug\net5.0\PracticTask1.AssemblyInfoInputs.cache
+G:\12\Проекты\PracticTask1\obj\Debug\net5.0\PracticTask1.AssemblyInfo.cs
+G:\12\Проекты\PracticTask1\obj\Debug\net5.0\PracticTask1.csproj.CoreCompileInputs.cache
+G:\12\Проекты\PracticTask1\obj\Debug\net5.0\PracticTask1.dll
+G:\12\Проекты\PracticTask1\obj\Debug\net5.0\ref\PracticTask1.dll
+G:\12\Проекты\PracticTask1\obj\Debug\net5.0\PracticTask1.pdb
+G:\12\Проекты\PracticTask1\obj\Debug\net5.0\PracticTask1.genruntimeconfig.cache
